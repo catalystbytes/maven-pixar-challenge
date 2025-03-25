@@ -1,4 +1,4 @@
-# Maven Pixar Challenge - Overview
+# Maven Pixar Challenge
 
 ## 📌 Project Overview
 This Power BI dashboard analyzes Pixar's impact in terms of total films, budget, revenue, profit margin, audience and critic ratings, and award performance. It highlights top-performing movies based on box office earnings, ratings, nominations, and awards won.
