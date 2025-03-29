@@ -1,9 +1,9 @@
 # Maven Pixar Challenge
 
-## 📌 Project Overview
+## Project Overview
 This Power BI dashboard analyzes Pixar's impact in terms of total films, budget, revenue, profit margin, audience and critic ratings, and award performance. It highlights top-performing movies based on box office earnings, ratings, nominations, and awards won.
 
-## 📊 Key Features
+## Key Features
 - **Financial Metrics:** Total revenue, budget, and profit margin analysis.
 - **Audience & Critical Reception:** IMDb, Rotten Tomatoes, Metacritic, and CinemaScore ratings.
 - **Awards Performance:** Total nominations, wins, and win ratio.
@@ -12,17 +12,17 @@ This Power BI dashboard analyzes Pixar's impact in terms of total films, budget,
 - **Dynamic Star Ratings:** Visual representation of overall movie scores.
 - **IBCS-Formatted Metrics:** Standardized financial figures (millions/billions).
 
-## 🛠️ Data Sources
+## Data Sources
 The dataset includes multiple CSV files containing information about Pixar films, box office earnings, audience ratings, and award recognitions.
 
-## 📌 Power BI Pages
+## Power BI Pages
 1. **Overview** - Pixar's overall impact and key metrics.
 2. **Financial Performance** - Revenue, budget, and profit trends.
 3. **Audience Reception** - Reviews, ratings, and trends.
 4. **Awards & Recognition** - Nominations, wins, and win ratios.
 5. **Detailed Film Analysis** - Individual movie insights.
 
-## 📌 How to Use
+## How to Use
 1. Clone this repository:
    ```sh
    git clone https://github.com/yourusername/maven-pixar-challenge.git
