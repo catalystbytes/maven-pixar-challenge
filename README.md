@@ -20,7 +20,7 @@ The dataset includes multiple CSV files containing information about Pixar films
 2. **Financial Performance** - Revenue, budget, and profit trends.
 3. **Audience Reception** - Reviews, ratings, and trends.
 4. **Awards & Recognition** - Nominations, wins, and win ratios.
-5. **Detailed Film Analysis** - Individual movie insights.
+5. **Detailed Film Analysis** - Individual movie insights. (WIP)
 
 ## How to Use
 1. Clone this repository:
